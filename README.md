@@ -22,6 +22,7 @@ The project focuses on the use of Unity's XR toolkit for VR development and inco
 To set up this project locally, follow these steps:
 
 1. **Clone the Repository:**
+   
       git clone https://github.com/your-username/How-to-Eat-in-VR.git
       
       cd How-to-Eat-in-VR
