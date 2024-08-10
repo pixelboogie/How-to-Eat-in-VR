@@ -22,16 +22,17 @@ The project focuses on the use of Unity's XR toolkit for VR development and inco
 To set up this project locally, follow these steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com/your-username/How-to-Eat-in-VR.git
-   cd How-to-Eat-in-VR
+      git clone https://github.com/your-username/How-to-Eat-in-VR.git
+      
+      cd How-to-Eat-in-VR
 
-2. **Open in Unity:**
+3. **Open in Unity:**
 
     - Open the project folder in Unity.
 
     - Ensure you have the necessary version of Unity and XR Interaction Toolkit installed.
 
-3. **Import Assets:**
+4. **Import Assets:**
 
     - Import the RPG Food and Drinks pack from the Unity Asset Store if it’s not already included.
     - Ensure all dependencies are resolved in the Unity Editor.
